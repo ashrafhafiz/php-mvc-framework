@@ -46,7 +46,10 @@ abstract class Controller
                 call_user_func_array([$this, $method], $args);
                 $this->after();
             }
-        } else "Method $method not found in controller " . get_class($this);
+        } else {
+            // echo "Method $method not found in controller " . get_class($this);
+            throw new \Exception("Method $method not found in controller" . get_class($this));
+        }
     }
 
     /**
@@ -56,7 +59,7 @@ abstract class Controller
      */
     protected function before()
     {
-        echo "(before) ";
+        // echo "(before) ";
     }
 
     /**
@@ -66,6 +69,6 @@ abstract class Controller
      */
     protected function after()
     {
-        echo "(after) ";
+        // echo "(after) ";
     }
 }

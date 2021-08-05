@@ -1,0 +1,48 @@
+[05-Aug-2021 08:56:01 UTC] Uncaught exception: 'Exception' with message: 'Controller class App\Controllers\Products not found'
+Stack trace: #0 C:\webdev\php-mvc-framework\public\index.php(90): Core\Router->dispatch('products/new')
+#1 {main}
+Thrown in: C:\webdev\php-mvc-framework\Core\Router.php' on line: 142
+[05-Aug-2021 08:56:29 UTC] Uncaught exception: 'Exception' with message: 'Controller class App\Controllers\Products not found'
+Stack trace: #0 C:\webdev\php-mvc-framework\public\index.php(90): Core\Router->dispatch('products/new')
+#1 {main}
+Thrown in: C:\webdev\php-mvc-framework\Core\Router.php' on line: 142
+[05-Aug-2021 08:56:32 UTC] Uncaught exception: 'Exception' with message: 'Controller class App\Controllers\Products not found'
+Stack trace: #0 C:\webdev\php-mvc-framework\public\index.php(90): Core\Router->dispatch('products/new')
+#1 {main}
+Thrown in: C:\webdev\php-mvc-framework\Core\Router.php' on line: 142
+[05-Aug-2021 09:11:47 UTC] Uncaught exception: 'Exception' with message: 'Controller class App\Controllers\Products not found'
+Stack trace: #0 C:\webdev\php-mvc-framework\public\index.php(90): Core\Router->dispatch('products/new')
+#1 {main}
+Thrown in: C:\webdev\php-mvc-framework\Core\Router.php' on line: 142
+[05-Aug-2021 09:11:52 UTC] Uncaught exception: 'Exception' with message: 'No route matched!'
+Stack trace: #0 C:\webdev\php-mvc-framework\public\index.php(90): Core\Router->dispatch('products')
+#1 {main}
+Thrown in: C:\webdev\php-mvc-framework\Core\Router.php' on line: 146
+[05-Aug-2021 09:15:38 UTC] Uncaught exception: 'Exception' with message: 'No route matched!'
+Stack trace: #0 C:\webdev\php-mvc-framework\public\index.php(90): Core\Router->dispatch('products')
+#1 {main}
+Thrown in: C:\webdev\php-mvc-framework\Core\Router.php' on line: 146
+[05-Aug-2021 09:16:00 UTC] Uncaught exception: 'Exception' with message: 'Controller class App\Controllers\Products not found'
+Stack trace: #0 C:\webdev\php-mvc-framework\public\index.php(90): Core\Router->dispatch('products/d')
+#1 {main}
+Thrown in: C:\webdev\php-mvc-framework\Core\Router.php' on line: 142
+[05-Aug-2021 09:16:25 UTC] Uncaught exception: 'Exception' with message: 'Controller class App\Controllers\Products not found'
+Stack trace: #0 C:\webdev\php-mvc-framework\public\index.php(90): Core\Router->dispatch('products/d')
+#1 {main}
+Thrown in: C:\webdev\php-mvc-framework\Core\Router.php' on line: 142
+[05-Aug-2021 09:17:33 UTC] Uncaught exception: 'Exception' with message: 'No route matched!'
+Stack trace: #0 C:\webdev\php-mvc-framework\public\index.php(90): Core\Router->dispatch('products')
+#1 {main}
+Thrown in: C:\webdev\php-mvc-framework\Core\Router.php' on line: 146
+[05-Aug-2021 09:17:51 UTC] Uncaught exception: 'Exception' with message: 'No route matched!'
+Stack trace: #0 C:\webdev\php-mvc-framework\public\index.php(90): Core\Router->dispatch('products')
+#1 {main}
+Thrown in: C:\webdev\php-mvc-framework\Core\Router.php' on line: 146
+[05-Aug-2021 09:18:17 UTC] Uncaught exception: 'Exception' with message: 'No route matched!'
+Stack trace: #0 C:\webdev\php-mvc-framework\public\index.php(90): Core\Router->dispatch('products')
+#1 {main}
+Thrown in: C:\webdev\php-mvc-framework\Core\Router.php' on line: 146
+[05-Aug-2021 09:18:48 UTC] Uncaught exception: 'Exception' with message: 'Controller class App\Controllers\Products not found'
+Stack trace: #0 C:\webdev\php-mvc-framework\public\index.php(90): Core\Router->dispatch('products/d')
+#1 {main}
+Thrown in: C:\webdev\php-mvc-framework\Core\Router.php' on line: 142
